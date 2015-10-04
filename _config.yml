@@ -1,9 +1,9 @@
 # Site settings
-title: Blog
+title: Day In Life of Nate
 header-img: img/home-bg.jpg
 # email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/blog"
+description: "Life as a Makersquare Student. Cohort MKS23 LA"
+baseurl: ""
 # url: "http://yourdomain.com"
 # twitter_username: SBootstrap
 # github_username:  davidtmiller
