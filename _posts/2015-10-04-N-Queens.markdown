@@ -4,7 +4,7 @@ title:      "N-Queens"
 subtitle:   "learning how to think"
 date:       2015-10-04 12:00:00
 author:     "Nate Lee"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/coding-bg.jpg"
 ---
 
 <p>N-Queens has been one of the hardest sprint during the Makersquare program because a lot of visualizing is required in order to make it work. The goal of the sprint was to fit as many queen chess pieces to a chessboard.</p>
