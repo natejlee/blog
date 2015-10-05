@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "N-Queens"
+subtitle:   ""
+date:       2015-10-04 12:00:00
+author:     "Nate Lee"
+header-img: "img/post-bg-01.jpg"
+---
+
+<p>N-Queens has been one of the hardest sprint during the Makersquare program because a lot of visualizing it required in order to make it work. The goal of the sprint was to fit as many queen chess pieces to a chessboard.</p>
+
+
+<h2 class="section-heading">Communication</h2>
+
+<p>Despite all the struggles, the biggest outcome from this sprint was the soft skills that is very valuable when collaborating. During the sprint, my pair partner and I took time to conceptualize and explain our logic. That leads to the first point of communication. It is important to communicate while programming because it helps answer questions. May seem silly, but in reality, it happens all the time.</p>
+
+
+<h2 class="section-heading">Visualization</h2>
+
+<p>We also physically drew out our logic. This helped not only with visualization, but going step by step on our logic. This leads to point 2 that it is important to physically see what is happening. Not only to solve the problem, but for others who are not technical to understand.</p>
+
+<p>Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
